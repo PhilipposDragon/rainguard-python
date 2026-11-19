@@ -7,11 +7,11 @@
 | **Nome da CitizenTech** | RainGuard |
 | **Cidade, bairro** | São Paulo, região do Ipiranga |
 | **Cidadão beneficiado** | Moradores e pessoas que passam por locais sujeitos a alagamentos |
-| **Problema, em uma frase** | [PREENCHER] |
+| **Problema, em uma frase** | Moradores e pessoas que passam pelo Ipiranga não sabem, antes de chegar a pontos que alagam, se há risco de alagamento naquele momento. |
 | **Como funciona** | Combina chuva, nível da água e relatos da comunidade para mostrar o estado de um ponto: Normal, Atenção ou Crítico. |
 | **O que cada parte faz** | **Python:** classifica as leituras em menu. **Edge (Wokwi):** circuito com os mesmos estados. **Front-end e Web:** página com módulo interativo e relatos. **Matemática:** modela os limites. |
-| **Link do repositório** | [PREENCHER] |
-| **Indicador de impacto** | [PREENCHER] |
+| **Link do repositório** | https://github.com/PhilipposDragon/rainguard-python |
+| **Indicador de impacto** | Cenários classificados como esperado no autoteste: 4 de 4 (normal, atenção, crítico e sensor sem leitura), nas duas áreas. É uma medida do protótipo, não de impacto comprovado. |
 | **ODS conectados** | 11 e 13 |
  
 ## Equipe
@@ -20,7 +20,7 @@
 |---|---|
 | Filipe Silva Fava | RM 574535 |
 | Matheus Silveira Salvatico | RM 575556 |
-| João Vitor Cordeiro | RM 576228 |
+| João Vitor Cordeiro De Godoi | RM 576228 |
 | Kaio Henrique dos Santos Sousa | RM 574401 |
 | Mateus Latorre da Silva | RM 574670 |
  
